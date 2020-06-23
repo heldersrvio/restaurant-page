@@ -5,7 +5,7 @@ export default function createHomePage(){
         let mainImageDiv = document.createElement('div');
         mainImageDiv.id = 'main-image';
         let img = document.createElement('img');
-        img.src = "../images/coffee-shop.jpg";
+        img.src = "coffee-shop.jpg";
         mainImageDiv.appendChild(img);
 
         content.appendChild(mainImageDiv);

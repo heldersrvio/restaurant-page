@@ -8,7 +8,7 @@ body{
 }
 
 #restaurant-name{
-    background-image: url(../images/wood-texture.jpg);
+    background-image: url("wood-texture.jpg");
     border-bottom: 2pt solid rgb(165, 81, 42);
 }
 
@@ -31,7 +31,7 @@ body{
 }
 
 #description{
-    background-image: url(../images/wood-texture2.jpg);
+    background-image: url("wood-texture2.jpg");
     width: 80%;
     height: auto;
     margin: auto;
@@ -54,7 +54,7 @@ body{
 }
 
 .tab-button{
-    background: url("../images/wood-texture3.jpg") no-repeat;
+    background: url("wood-texture3.jpg") no-repeat;
     width: 100px;
     height: 50px;
     font-weight: bolder;
@@ -68,7 +68,7 @@ body{
 }
 
 #menu{
-    background: url("../images/menu-template.jpg") no-repeat;
+    background: url("menu-template.jpg") no-repeat;
     height: 700px;
     background-size: 500px 700px;
     background-position: center;
